@@ -34,7 +34,7 @@ const data_projects = [
     {
         name: 'Dev Portfolio',
         image: portfolio,
-        deployed_url: 'http://suprateem.herokuapp.com/',
+        deployed_url: 'https://ullasbc.github.io/',
         category: ['vanilla']
     },
 

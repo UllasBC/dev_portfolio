@@ -1,4 +1,5 @@
 {
+  "homepage": "https://ullasbc.github.io/dev_portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -11,6 +12,8 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -32,6 +35,7 @@
     ]
   },
   "devDependencies": {
-    "eslint-plugin-react": "^7.20.6"
+    "eslint-plugin-react": "^7.20.6",
+    "gh-pages":"^2.1.0"
   }
 }
