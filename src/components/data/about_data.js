@@ -1,10 +1,8 @@
 import React from 'react';
 
-import api from '../../assets/icons/api.svg'
-import backend from '../../assets/icons/backend.svg'
 import github from '../../assets/icons/github.svg'
 import computer from '../../assets/icons/computer.svg'
-import repair from '../../assets/icons/repair.svg'
+
 import puzzle from '../../assets/icons/puzzle.svg'
 
 
