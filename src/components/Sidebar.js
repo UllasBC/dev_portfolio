@@ -55,7 +55,7 @@ const Sidebar = () => {
                     <img src={pin} alt="location" className="sidebar__icon mr-3" />
                     Bangalore, India</div>
                 <div className="sidebar__item">ullasbc0@gmail.com</div>
-                <div className="sidebar__item">7406517618 / 7892115519</div>
+                <div className="sidebar__item"><a href="tel:+917406517618">7406517618 / 7892115519</a></div>
             </div>
             <div className="sidebar__item sidebar__email" onClick={handleEmailMe}>email me</div>
         </motion.div>
