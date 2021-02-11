@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ullasbc.github.io/dev_portfolio",
+  "homepage": ".",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -36,6 +36,6 @@
   },
   "devDependencies": {
     "eslint-plugin-react": "^7.20.6",
-    "gh-pages":"^2.1.0"
+    "gh-pages": "^2.1.0"
   }
 }
