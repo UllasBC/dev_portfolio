@@ -72,7 +72,7 @@ const Resume = () => {
             <h5 className="resume-card__title">
               2. Front-End Engineer (March 2020 - Present)
             </h5>
-            <p className="resume-card__name">XYX Company name</p>
+          
             <p className="resume-card__details">
               Working as a Front-End Engineer mainly on JS frontend libraries
             </p>
